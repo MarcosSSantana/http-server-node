@@ -1,0 +1,23 @@
+{
+  "name": "http-server-node",
+  "version": "1.0.0",
+  "description": "Exemplo de servidor node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosSSantana/http-server-node.git"
+  },
+  "author": "Marcos Santana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcosSSantana/http-server-node/issues"
+  },
+  "homepage": "https://github.com/MarcosSSantana/http-server-node#readme"
+}
